@@ -1,1 +1,2 @@
-0-hello_ubuntu doesn't contain: ["MINGW64_NT-10.0-19045"]
+Output of uname command: MINGW64_NT-10.0-19045
+0-hello_ubuntu doesn't contain: ["Linux"]
